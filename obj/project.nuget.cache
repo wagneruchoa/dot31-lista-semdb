@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXa8/7wUza3ZJGWmw/eKs7n4VVnCoZGvRryaV/pDrQLVHRQLYrFJr8qISTCKGU4JNENeR44jHr/IbmHWW802/Q==",
+  "success": true,
+  "projectFilePath": "/home/wagneruchoa/projetos/sicom-lista-sem-database-dotnet31/mvc1/mvc1.csproj",
+  "expectedPackageFiles": [
+    "/home/wagneruchoa/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/wagneruchoa/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/wagneruchoa/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
